@@ -19,7 +19,7 @@ function preload(){
   trex_collided = loadAnimation("trex_collided.png");
   jumpSound = loadSound("jump.mp3")
   dieSound = loadSound("die.mp3")
-  checkPointSound = loadSound("checkPoint.mp3")
+  checkPointSound = loadSound("checkpoint.mp3")
   
   groundImage = loadImage("ground2.png");
   
